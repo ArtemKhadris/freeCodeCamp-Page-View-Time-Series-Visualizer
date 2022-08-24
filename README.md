@@ -8,6 +8,12 @@ My solution:
 
 [![Run on Repl.it](https://replit.com/badge/github/ArtemKhadris/freeCodeCamp-Page-View-Time-Series-Visualizer)](https://replit.com/new/github/ArtemKhadris/freeCodeCamp-Page-View-Time-Series-Visualizer)
 
+Plot results:
+
+![bar_plot](https://user-images.githubusercontent.com/106828028/186507502-ad60f3a4-3588-4f1d-b46f-ec3c437c2cf6.png)
+![box_plot](https://user-images.githubusercontent.com/106828028/186507522-bf4e1fb6-2973-4f75-92cf-e5dd2518b54e.png)
+![line_plot](https://user-images.githubusercontent.com/106828028/186507537-5b9faa06-1cc7-454c-bea0-71da603540cd.png)
+
 
 For this project you will visualize time series data using a line chart, bar chart, and box plots. You will use Pandas, Matplotlib, and Seaborn to visualize a dataset containing the number of page views each day on the freeCodeCamp.org forum from 2016-05-09 to 2019-12-03. The data visualizations will help you understand the patterns in visits and identify yearly and monthly growth.
 
